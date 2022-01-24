@@ -8,7 +8,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksenia-dorofeeva/conFusion.git"
+  },
+  "author": "Ksenia Dorofeeva",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
